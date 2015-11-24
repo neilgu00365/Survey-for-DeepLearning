@@ -3,6 +3,8 @@ Using for file exchange between Pana-CF-SX4 and Ubuntu PC
 
 Reading list for Deep Learning:
 
+http://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi
+
 http://www.cnblogs.com/fengfenggirl/p/cnn_implement.html
 
 http://ibillxia.github.io/blog/2013/04/06/Convolutional-Neural-Networks/
