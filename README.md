@@ -3,7 +3,11 @@ Using for file exchange between Pana-CF-SX4 and Ubuntu PC
 
 Reading list for Deep Learning:
 
-http://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi
+http://blog.csdn.net/reporter521/article/details/45567555    （用Caffe实现人脸特征点检测 资料整理 ）
+
+http://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi    （手写体识别的开源软件）
+
+http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm   （深度学习作人脸方面）
 
 http://www.cnblogs.com/fengfenggirl/p/cnn_implement.html
 
