@@ -92,3 +92,24 @@ UFLDL教程 - Ufldl
 
 深度学习（deep learning） - linger(心怀梦想，活在当下) - 博客频道 - CSDN.NET 
 
+Neural Network for Recognition of Handwritten Digits
+
+Conversational Speech Transcription Using Context-Dependent Deep Neural Networks
+
+Imagenet Classification with Deep Convolutional Neural Networks
+
+Deep Convolutional Network Cascade for Facial Point Detection
+
+Regularization of Neural Networks using DropConnect
+
+Beyond Pedestrian Detection Deep Neural Networks Level-Up Automotive Safety
+
+An Empirical Evaluation of Deep Learning on Highway Driving
+
+Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture
+
+Learning Drivers` Behaviour with Deep Neural Networks
+
+DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving
+
+
