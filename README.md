@@ -147,4 +147,13 @@ Learning Drivers` Behaviour with Deep Neural Networks
 
 DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving
 
+http://arxiv.org/pdf/1406.2199.pdf
+Two-Stream Convolutional Networks for Action Recognition in Videos
+
+http://arxiv.org/pdf/1412.0767v4.pdf
+Learning Spatiotemporal Features with 3D Convolutional Network
+
+http://danielmaturana.net/extra/voxnet_maturana_scherer_iros15.pdf
+VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition
+
 
