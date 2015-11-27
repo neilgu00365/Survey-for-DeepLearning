@@ -156,4 +156,7 @@ Learning Spatiotemporal Features with 3D Convolutional Network
 http://danielmaturana.net/extra/voxnet_maturana_scherer_iros15.pdf
 VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition
 
+===================================================================================================================
 
+http://www.cnblogs.com/platero/p/3993877.html
+(Ubuntu 14.04 + Caffe + CUDA6.5)
