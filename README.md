@@ -1,4 +1,4 @@
-# gu_file_exchange
+#Survey for DeepLearning
 ========================================================================================================================
 Using for file exchange between Pana-CF-SX4 and Ubuntu PC
 ========================================================================================================================
@@ -162,3 +162,5 @@ http://www.cnblogs.com/platero/p/3993877.html
 (Ubuntu 14.04 + Caffe + CUDA6.5)
 
 http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
+https://developer.nvidia.com/how-to-cuda-c-cpp
+http://devblogs.nvidia.com/parallelforall/deep-learning-for-computer-vision-with-matlab-and-cudnn/
