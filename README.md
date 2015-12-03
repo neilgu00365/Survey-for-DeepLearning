@@ -160,3 +160,5 @@ VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition
 
 http://www.cnblogs.com/platero/p/3993877.html
 (Ubuntu 14.04 + Caffe + CUDA6.5)
+
+http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
